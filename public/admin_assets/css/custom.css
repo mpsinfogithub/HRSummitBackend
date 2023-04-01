@@ -1,0 +1,21 @@
+.btn-alignment
+{
+  display: flex;
+  align-items: center;
+  width: 10%;
+}
+
+.breadcrumb-body {
+  display: flex;
+  justify-content: space-between;
+}
+
+#cke_short_desc , #cke_long_desc
+{
+  width : 100%;
+}
+
+.w-15
+{
+  width : 15% !important;
+}

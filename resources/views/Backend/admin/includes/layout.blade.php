@@ -1,0 +1,5 @@
+@include('Backend/admin/includes/header')
+@include('Backend/admin/includes/left_sidebar')
+@include('Backend/admin/includes/top_bar')
+@yield('main-content')
+@include('Backend/admin/includes/footer')
